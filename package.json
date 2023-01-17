@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vineeth-07/Online_Voting_Application.git"
+    "url": "git+https://github.com/Msamuelcyrilraj/wd201-l11"
   },
   "author": "Vineeth",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vineeth-07/Online_Voting_Application/issues"
+    "url": "https://github.com/Msamuelcyrilraj/wd201-l11/issues"
   },
-  "homepage": "https://github.com/Vineeth-07/Online_Voting_Application#readme",
+  "homepage": "https://github.com/Msamuelcyrilraj/wd201-l11#readme",
   "devDependencies": {
     "cheerio": "^1.0.0-rc.12",
     "eslint": "^8.30.0",
